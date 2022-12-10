@@ -1,0 +1,11 @@
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\bin\Debug\WindowsFormsAppLesson2.exe.config
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\bin\Debug\WindowsFormsAppLesson2.exe
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\bin\Debug\WindowsFormsAppLesson2.pdb
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.csproj.AssemblyReference.cache
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.Form1.resources
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.Properties.Resources.resources
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.csproj.GenerateResource.cache
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.csproj.CoreCompileInputs.cache
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.exe
+C:\Users\dimad\source\repos\WindowsFormsAppLesson2\WindowsFormsAppLesson2\obj\Debug\WindowsFormsAppLesson2.pdb
